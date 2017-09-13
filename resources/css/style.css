@@ -32,6 +32,11 @@ p {
 }
 .footer {
   text-align: left;
-  background-color: gray;
+  background-color: dimgray;
+  color: white;
+}
+.copy {
+  font-size: 11px;
+  background-color: dimgray;
   color: white;
 }
